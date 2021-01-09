@@ -7,4 +7,4 @@
                          
 
 
-<p align="center"> Discord is </p>
+<p align="center"> My Discord is </p>
