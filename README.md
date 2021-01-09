@@ -1,5 +1,7 @@
 ### IAmANoot 😄
 
+I am most familar in Java, Node.Js, C#
+
 <!--
 **IAmANoot/IAmANoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
