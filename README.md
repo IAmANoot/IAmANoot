@@ -7,4 +7,4 @@
                          
 
 
-<p align="center"> My Discord is </p>
+<p align="center"> My Discord is !AmANoot#0123</p>
